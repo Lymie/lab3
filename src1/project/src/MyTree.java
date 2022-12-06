@@ -1,6 +1,8 @@
 package tree;
 
 import tree.MyNode;
+//My tree is better than yours
+// essies branch is the best
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
@@ -78,4 +80,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-

@@ -1,5 +1,8 @@
 package tree;
 
+
+// This is great code made by Essie
+
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
@@ -14,7 +17,7 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   *
    * @param value The value of this node.
    */
   public MyNode(int value) {
@@ -109,4 +112,4 @@ public class MyNode {
     }
     return cnt;
   }
-} 
+}
