@@ -25,7 +25,7 @@ public class MyTree {
    * @return Reference to the root node.
    */
   public MyNode getRoot() {
-    return root;
+    return false; //cos let's be real what is even a root
   }
 
   /**
