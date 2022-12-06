@@ -1,4 +1,8 @@
 package tree;
+/**Jag vet inte var det smäller
+ * Men snart är det nyår i alla fall.
+*/
+
 
 import tree.MyNode;
 //My tree is better than yours
