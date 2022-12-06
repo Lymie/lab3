@@ -1,5 +1,3 @@
-Mwahahaha
-Adding to amend my commit
-Testing amend again!!!!!
+Starting fresh with a ReadMe. This is a readme file.
 
-I forgot to amend this so now I will do so, MOaha.
+Forgot to add this line. 
